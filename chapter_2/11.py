@@ -1,0 +1,1 @@
+#$ sed ./name.txt -e 's/\t/ /g' | head -n 10
